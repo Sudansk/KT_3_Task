@@ -17,17 +17,16 @@ The School Management System is a simple backend application built with Node.js 
 - Git & GitHub
 
 ## 📁 Project Structure
-School-Management/
-├── app.js
-├── students.json
-├── package.json
-├── package-lock.json
-├── routes/
-│   └── students.js
-└── frontend/
-├── index.html
-├── style.css
-└── script.js
+KT_3_Task/
+├── Backend/
+│   ├── app.js
+│   ├── package.json
+│   └── students.json
+├── Frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+└── README.md
 
 ## ⚙️ Installation & Setup
 
@@ -35,8 +34,8 @@ School-Management/
 # 1. Clone the repository
 git clone <your-github-repository-link>
 
-# 2. Navigate to the project folder
-cd School-Management
+# 2. Navigate to the Backend folder
+cd KT_3_Task/Backend
 
 # 3. Install dependencies
 npm install
